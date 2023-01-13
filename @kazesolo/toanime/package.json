@@ -1,0 +1,39 @@
+{
+  "name": "@kazesolo/toanime",
+  "version": "1.0.0",
+  "description": "Photo To Anime",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazeDevID"
+  },
+  "keywords": [
+    "ToAnime",
+    "selfie2anime",
+    "anime",
+    "kaze",
+    "kazesolo",
+    "photo",
+    "selfie",
+    "transform"
+  ],
+  "author": "KazeDevID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KazeDevID"
+  },
+  "homepage": "https://github.com/KazeDevID",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "fs": "0.0.1-security",
+    "node-base64-image": "^2.0.1",
+    "path": "^0.12.7",
+    "sharp": "^0.31.2"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
